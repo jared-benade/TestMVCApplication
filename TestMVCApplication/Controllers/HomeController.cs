@@ -10,7 +10,7 @@ namespace TestMVCApplication.Controllers
     {
         public ActionResult Index()
         {
-            // Test for build12345789
+            // Test for build12
             return View();
         }
 
